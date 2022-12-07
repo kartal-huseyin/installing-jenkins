@@ -50,10 +50,22 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 ```
 
 INSTALL MAVEN
+```bash
 sudo apt update
+```
+```bash
 sudo apt install maven
+```
+```bash
 mvn -version
+```
+```bash
+sudo apt update
+```
+```bash
 java -version
+```
+
 
 
 All Set! You can now start automating...
