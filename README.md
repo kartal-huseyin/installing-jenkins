@@ -49,6 +49,13 @@ To check the initial password, use the cat command as indicated below:
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 ```
 
+INSTALL MAVEN
+sudo apt update
+sudo apt install maven
+mvn -version
+java -version
+
+
 All Set! You can now start automating...
 
 # 2. How to Configure and Run Jenkins Behind Apache Reverse Proxy?
