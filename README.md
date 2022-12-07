@@ -60,13 +60,24 @@ sudo apt install maven
 mvn -version
 ```
 ```bash
-sudo apt update
-```
-```bash
 java -version
 ```
 
-
+JENKINS PLUGINS
+```bash
+Locale 
+```
+```bash
+GitHub IntegrationVersion 
+```
+```bash
+Cucumber reportsVersion
+5.7.4
+```
+```bash
+Amazon EC2Version
+2.0.4
+```
 
 All Set! You can now start automating...
 
