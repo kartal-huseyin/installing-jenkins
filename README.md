@@ -83,7 +83,12 @@ Check Chrome is installed correctly.
 
 google-chrome --version
 This version is important, you will need it to get the chromedriver.
+Download the chromedriver in your VPS, make sure you replace this link with your link to match your vversion of chrome.
 
+wget https://chromedriver.storage.googleapis.com/108.x.xxx.xx/chromedriver_linux64.zip
+You will get a zip file, you need to unzip it:
+
+unzip chromedriver_linux64.zip
 
 ```bash
 google-chrome --version
