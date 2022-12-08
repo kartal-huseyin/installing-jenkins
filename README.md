@@ -65,7 +65,9 @@ java -version
 INSTALL CHROMEDRIVER
 https://skolo.online/documents/webscrapping/#pre-requisites
 
-
+```bash
+google-chrome --version
+```
 JENKINS PLUGINS
 ```bash
 Locale 
